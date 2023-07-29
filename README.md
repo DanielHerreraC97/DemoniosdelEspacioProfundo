@@ -1,2 +1,2 @@
 # DemoniosdelEspacioProfundo
-Repository created for hosting the project associated to the Bitsy Gen Jam within the Generation Colombia program
+Repository created to host the project associated with the Bitsy Gen Jam within the Generation Colombia program
